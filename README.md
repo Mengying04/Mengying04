@@ -9,8 +9,8 @@ Interested in **data engineering** and **machine learning**.
 - Building data pipelines and working with real-world data
 
 ### Tech
-**Languages:** [Java · Python · C · SQL · JavaScript]
-**Tools:** [GitHub · Unix terminal (macOS) · VSCode · JetBrains IDEs · VirtualBox]
+- **Languages:** [Java · Python · C · SQL · JavaScript]
+- **Tools:** [GitHub · Unix terminal (macOS) · VSCode · JetBrains IDEs · VirtualBox]
 
 ### Currently
 - Learning Python for data (Pandas, NumPy) and advanced SQL
