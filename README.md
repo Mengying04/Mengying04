@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mengying
 
-<!--
-**Mengying04/Mengying04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at **Universidad Rey Juan Carlos (URJC)**, Madrid.
+Interested in **data engineering** and **machine learning**.
 
-Here are some ideas to get you started:
+### What I'm into
+- Databases and distributed systems
+- Competitive programming and algorithms
+- Building data pipelines and working with real-world data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+**Languages:** [Java · Python · C · SQL · JavaScript]
+**Tools:** [GitHub · Unix terminal (macOS) · VSCode · JetBrains IDEs · VirtualBox]
+
+### Currently
+- Learning Python for data (Pandas, NumPy) and advanced SQL
+- Building my first data engineering project
+
+### Languages
+Spanish · Chinese · English
+
+### Contact
+[LinkedIn](https://www.linkedin.com/in/mengying-xia-ruan-27a326395?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [mengyxr@icloud.com]
